@@ -43,6 +43,5 @@
 - Ensured pipeline has <5 min latency for streaming events, 99% run success rate  
 
 ## 📫 Contact & LinkedIn
-- LinkedIn: [your-link]  
-- Email: abhishekdk0304@example.com  
-- Blog (optional): [link]
+- LinkedIn: https://www.linkedin.com/in/abhishekdevangakotha/
+- Email: abhishekdk0304@gmail.com
